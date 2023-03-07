@@ -1,3 +1,5 @@
+<img align="right" width="20%" src="https://media.discordapp.net/attachments/1082691918208708742/1082692065370054716/meu_gif.gif?width=500&height=500" />
+
 ### Hi ther! Eu sou a Luana
 
 
@@ -12,7 +14,6 @@
   <img align="center" alt="luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" width="35%" src="https://media.discordapp.net/attachments/1082691918208708742/1082692065370054716/meu_gif.gif?width=500&height=500" />
 </div>
 
 #
