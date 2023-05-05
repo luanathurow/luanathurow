@@ -3,7 +3,7 @@
 ### Hi ther! Eu sou a Luana
 
 
-- 🔭 I’m currently working com Full Stack
+- 🔭 Sou desenvolvedora Full Stack
 - 😄 Pronouns: ela/dela
 
 </div>
