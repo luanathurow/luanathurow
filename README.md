@@ -1,10 +1,9 @@
 <img align="right" width="20%" src="https://media.discordapp.net/attachments/1082691918208708742/1082692065370054716/meu_gif.gif?width=500&height=500" />
 
-### Hi ther! Eu sou a Luana
+### Hi! I'm Luana
 
 
-- 🔭 Sou desenvolvedora Full Stack
-- 😄 Pronouns: ela/dela
+- 🔭 
 
 </div>
   
