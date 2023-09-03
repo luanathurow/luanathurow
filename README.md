@@ -3,9 +3,6 @@
 ### Hi! I'm Luana
 
 
-Feel free!
-
-
 </div>
   
   ##
